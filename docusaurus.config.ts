@@ -136,7 +136,7 @@ const config: Config = {
 					],
 				},
 			],
-			copyright: `<strong>man-epita</strong> © ${new Date().getFullYear()} by Valentin KIEP & al. is licensed under CC BY-NC 4.0. Built with Docusaurus.`,
+			copyright: `<strong>man-epita</strong> © ${new Date().getFullYear()} by ValentinKhmer & al. is licensed under CC BY-NC 4.0. Built with Docusaurus.`,
 		},
 		prism: {
 			theme: prismThemes.github,
