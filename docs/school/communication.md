@@ -10,3 +10,35 @@ This page tackles *communication* activities with EPITA's communication departem
 - Activities (*JPO* (*Journées Portes Ouvertes*), *JI* (*Journée d'immersion*), Forums (Lycée/CPGE), *Salons*)
 - StaffCom role.
 :::
+
+## Activities
+
+### JPO (*Journées Portes Ouvertes*)
+
+<!-- TODO -->
+
+### JI (*Journées d'Immersion*)
+
+<!-- TODO -->
+
+### Forums
+
+<!-- TODO -->
+
+#### Lycée
+
+<!-- TODO -->
+
+#### CPGE
+
+<!-- TODO -->
+
+### Salons
+
+<!-- TODO -->
+
+
+## StaffCom role
+
+<!-- TODO -->
+

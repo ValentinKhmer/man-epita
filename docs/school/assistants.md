@@ -28,4 +28,4 @@ This page tackles *assistants*:
 
 ### Conceptor
 
-### Reviwers
+### Reviewers
